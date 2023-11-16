@@ -1,3 +1,2 @@
 ﻿  main.cpp
-LINK : warning LNK4098: conflit entre la bibliothèque par défaut 'MSVCRT' et les autres bibliothèques ; utilisez /NODEFAULTLIB:library
   vulkanRenderer.vcxproj -> D:\cpp\programs\tutoVulkan\vulkanRenderer\x64\Debug\vulkanRenderer.exe
